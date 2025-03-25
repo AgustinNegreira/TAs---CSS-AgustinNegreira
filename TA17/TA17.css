@@ -1,0 +1,22 @@
+.contenedor {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+.tarjeta {
+    width: 300px;
+    padding: 20px;
+    position: relative;
+}
+
+.Avatar {
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
